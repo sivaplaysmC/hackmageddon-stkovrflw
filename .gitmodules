@@ -1,0 +1,12 @@
+[submodule "stormguard-web"]
+	path = stormguard-web
+	url = https://github.com/Nsrevarsha/stormguard-web
+[submodule "stormguard-app"]
+	path = stormguard-app
+	url = https://github.com/Sanjana3905/stormguard-app
+[submodule "stormguard-hosts"]
+	path = stormguard-hosts
+	url = https://github.com/sivaplaysmC/stormguard-hosts
+[submodule "stormguard-backend"]
+	path = stormguard-backend
+	url = git@github.com:sivaplaysmC/stormguard-backend.git
